@@ -1,0 +1,3 @@
+ls - para listar as pastas que estao no diretorio
+cd - para entrar no diretorio
+cd .. - para voltar uma pasta no diretorio
